@@ -1,0 +1,3 @@
+
+## Información
+En la carpeta imagenes se muestra una  guia paso a paso  de la creación y configuración de una instancia EC2 en AWS, diseñada para funcionar como un servidor web robusto. Desde la generación de claves RSA para acceso seguro hasta la instalación de herramientas esenciales como Nginx, Java, PostgreSQL y pgAdmin, cada imagen captura los detalles críticos para garantizar una implementación exitosa.
