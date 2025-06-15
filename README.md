@@ -1,10 +1,10 @@
 
 # Welcome to Codelads-DS3! �💻
 
-## 🧑‍💻 Student Information
+## 🧑‍💻 Información
 
 | Nombre        | Codigo estudiantil  |
 |---------------------|--------------|
-| Manuel Antonio Vidales Duran | 2155481      |
+| Manuel Antonio Vidales Duran |     2155481      |
 
 ---
